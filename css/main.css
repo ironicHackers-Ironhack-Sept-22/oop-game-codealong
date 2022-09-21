@@ -5,7 +5,7 @@ body {
 
 #board {
     height: 100vh;
-    background-image: url("/images/background.jpg");
+    background-image: url("../images/background.jpg");
     position: relative;
 }
 
